@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">geekbrains.android</string>
+    <string name="Edit_text">Add text here...</string>
+    <string name="hello_geekbrains">Hello GeekBrains!</string>
 </resources>
